@@ -1,1 +1,2 @@
-# class-38-and-39-project-infinte-trex-game-
+# T-Rex Game W/Changes
+T-Rex Game with a read END, and camera view
